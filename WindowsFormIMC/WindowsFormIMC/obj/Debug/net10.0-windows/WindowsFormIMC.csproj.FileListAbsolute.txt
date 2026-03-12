@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.FrmImc.resources
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\bin\Debug\net10.0-windows\WindowsFormIMC.exe
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\bin\Debug\net10.0-windows\WindowsFormIMC.deps.json
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\bin\Debug\net10.0-windows\WindowsFormIMC.runtimeconfig.json
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\bin\Debug\net10.0-windows\WindowsFormIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\bin\Debug\net10.0-windows\WindowsFormIMC.pdb
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\refint\WindowsFormIMC.dll
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.pdb
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\WindowsFormIMC.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\WindowsFormIMC\WindowsFormIMC\obj\Debug\net10.0-windows\ref\WindowsFormIMC.dll
